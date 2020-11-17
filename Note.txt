@@ -1,0 +1,29 @@
+Some Sources
+
+https://github.com/PacktPublishing/Learning-Pandas-Second-Edition
+https://github.com/tdpetrou/Learn-Pandas
+https://github.com/adeshpande3/Pandas-Tutorial
+
+https://github.com/guipsamora/pandas_exercises
+https://github.com/justmarkham/pandas-videos
+https://github.com/ajcr/100-pandas-puzzles
+https://github.com/alamhanz/pandas_journey
+https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html
+
+
+Day 1 :
+0 - 3
+
+Day 2 :
+4 - 7
+
+Day 3 :
+8 - 9
+
+
+Day 4 :
+10
+
+https://htmtopdf.herokuapp.com/ipynbviewer/
+https://www.sodapdf.com/add-watermark-to-pdf/
+https://smallpdf.com/merge-pdf

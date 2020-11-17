@@ -1,2 +1,3 @@
-# pandas_journey
+# Pandas Journey
+
 The journey to use pandas.
